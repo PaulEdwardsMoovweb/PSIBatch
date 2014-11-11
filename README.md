@@ -3,7 +3,7 @@ PSIBatch
 
 Pagespeed Inisights Batch testing
 
-usage: nodejs index.js <inputfile>
+usage: nodejs index.js <inputfile> > outputfile
 
 input file is a list of websites to test
 
