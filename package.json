@@ -1,0 +1,14 @@
+{
+  "name": "psibatch",
+  "version": "1.0.0",
+  "description": "batch runs of PSI",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Paul Edwards",
+  "license": "ISC",
+  "dependencies": {
+    "psi": "^0.1.5"
+  }
+}

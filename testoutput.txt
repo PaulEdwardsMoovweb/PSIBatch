@@ -1,0 +1,188 @@
+Site test 0: news.bbc.co.uk
+Site test 1: news.ycombinator.com
+
+----------------------------------------------------------------
+
+URL:       https://news.ycombinator.com/
+Score:     97
+Strategy:  desktop
+
+Number Resources                                 | 6
+Number Hosts                                     | 1
+Total Request                                    | 452 B
+Number Static Resources                          | 4
+Html Response                                    | 22.46 kB
+Css Response                                     | 3.21 kB
+Image Response                                   | 1.38 kB
+Other Response                                   | 542 B
+Number Css Resources                             | 1
+                                                 | 
+Avoid Landing Page Redirects                     | 0
+Enable Gzip Compression                          | 0
+Leverage Browser Caching                         | 0
+Main Resource Server Response Time               | 0
+Minify Css                                       | 0
+Minify HTML                                      | 0
+Minify Java Script                               | 0
+Minimize Render Blocking Resources               | 2
+Optimize Images                                  | 0
+Prioritize Visible Content                       | 0
+
+----------------------------------------------------------------
+
+{ kind: 'pagespeedonline#result',
+  id: 'https://news.ycombinator.com/',
+  responseCode: 200,
+  title: 'Hacker News',
+  score: 97,
+  pageStats: 
+   { numberResources: 6,
+     numberHosts: 1,
+     totalRequestBytes: '452',
+     numberStaticResources: 4,
+     htmlResponseBytes: '22459',
+     cssResponseBytes: '3212',
+     imageResponseBytes: '1381',
+     otherResponseBytes: '542',
+     numberCssResources: 1 },
+  formattedResults: 
+   { locale: 'en_US',
+     ruleResults: 
+      { AvoidLandingPageRedirects: [Object],
+        EnableGzipCompression: [Object],
+        LeverageBrowserCaching: [Object],
+        MainResourceServerResponseTime: [Object],
+        MinifyCss: [Object],
+        MinifyHTML: [Object],
+        MinifyJavaScript: [Object],
+        MinimizeRenderBlockingResources: [Object],
+        OptimizeImages: [Object],
+        PrioritizeVisibleContent: [Object] } },
+  version: { major: 1, minor: 15 } }
+97
+{ numberResources: 6,
+  numberHosts: 1,
+  totalRequestBytes: '452',
+  numberStaticResources: 4,
+  htmlResponseBytes: '22459',
+  cssResponseBytes: '3212',
+  imageResponseBytes: '1381',
+  otherResponseBytes: '542',
+  numberCssResources: 1 }
+
+----------------------------------------------------------------
+
+URL:       https://news.ycombinator.com/
+Score:     91
+Strategy:  mobile
+
+Number Resources                                 | 6
+Number Hosts                                     | 1
+Total Request                                    | 454 B
+Number Static Resources                          | 4
+Html Response                                    | 22.46 kB
+Css Response                                     | 3.21 kB
+Image Response                                   | 1.36 kB
+Other Response                                   | 542 B
+Number Css Resources                             | 1
+                                                 | 
+Avoid Landing Page Redirects                     | 0
+Avoid Plugins                                    | 0
+Configure Viewport                               | 10
+Enable Gzip Compression                          | 0
+Leverage Browser Caching                         | 0
+Main Resource Server Response Time               | 0
+Minify Css                                       | 0
+Minify HTML                                      | 0
+Minify Java Script                               | 0
+Minimize Render Blocking Resources               | 8
+Optimize Images                                  | 0
+Prioritize Visible Content                       | 0
+Size Content To Viewport                         | 0
+Size Tap Targets Appropriately                   | 29.57
+Use Legible Font Sizes                           | 40
+
+----------------------------------------------------------------
+
+{ kind: 'pagespeedonline#result',
+  id: 'https://news.ycombinator.com/',
+  responseCode: 200,
+  title: 'Hacker News',
+  score: 91,
+  pageStats: 
+   { numberResources: 6,
+     numberHosts: 1,
+     totalRequestBytes: '454',
+     numberStaticResources: 4,
+     htmlResponseBytes: '22459',
+     cssResponseBytes: '3212',
+     imageResponseBytes: '1365',
+     otherResponseBytes: '542',
+     numberCssResources: 1 },
+  formattedResults: 
+   { locale: 'en_US',
+     ruleResults: 
+      { AvoidLandingPageRedirects: [Object],
+        AvoidPlugins: [Object],
+        ConfigureViewport: [Object],
+        EnableGzipCompression: [Object],
+        LeverageBrowserCaching: [Object],
+        MainResourceServerResponseTime: [Object],
+        MinifyCss: [Object],
+        MinifyHTML: [Object],
+        MinifyJavaScript: [Object],
+        MinimizeRenderBlockingResources: [Object],
+        OptimizeImages: [Object],
+        PrioritizeVisibleContent: [Object],
+        SizeContentToViewport: [Object],
+        SizeTapTargetsAppropriately: [Object],
+        UseLegibleFontSizes: [Object] } },
+  version: { major: 1, minor: 15 } }
+91
+{ numberResources: 6,
+  numberHosts: 1,
+  totalRequestBytes: '454',
+  numberStaticResources: 4,
+  htmlResponseBytes: '22459',
+  cssResponseBytes: '3212',
+  imageResponseBytes: '1365',
+  otherResponseBytes: '542',
+  numberCssResources: 1 }
+
+----------------------------------------------------------------
+
+URL:       http://m.bbc.com/news
+Score:     32
+Strategy:  mobile
+
+Number Resources                                 | 115
+Number Hosts                                     | 34
+Total Request                                    | 22 kB
+Number Static Resources                          | 72
+Html Response                                    | 149.13 kB
+Css Response                                     | 455.45 kB
+Image Response                                   | 148.93 kB
+Javascript Response                              | 930.26 kB
+Other Response                                   | 13.5 kB
+Number Js Resources                              | 31
+Number Css Resources                             | 4
+                                                 | 
+Avoid Landing Page Redirects                     | 35
+Avoid Plugins                                    | 0
+Configure Viewport                               | 0
+Enable Gzip Compression                          | 0.2
+Leverage Browser Caching                         | 6.74
+Main Resource Server Response Time               | 0
+Minify Css                                       | 0
+Minify HTML                                      | 0.22
+Minify Java Script                               | 0.28
+Minimize Render Blocking Resources               | 184
+Optimize Images                                  | 0.22
+Prioritize Visible Content                       | 0
+Size Content To Viewport                         | 0
+Size Tap Targets Appropriately                   | 1.55
+Use Legible Font Sizes                           | 0
+
+----------------------------------------------------------------
+
+[Error: Threshold of 70 not met with score of 32]
