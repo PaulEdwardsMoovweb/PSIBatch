@@ -8,7 +8,7 @@ var outputFile ="";
 var writtenKeys = false;
 
 // Get the input file
-if(process.argv.length > 3){
+if(process.argv.length > 2){
 	inputFile = process.argv[2];
 	outputFile = inputFile + '-output.csv';
 } else {
